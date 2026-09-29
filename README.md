@@ -1,8 +1,8 @@
 <div align="center">
 
-# Pedro Mendes
+<img src="./profile-banner-v3.png" width="100%" alt="Pedro Mendes — UI/UX Design e Front-end" />
 
-### Designer & Web Designer focused on clear, responsive digital experiences
+<br />
 
 I turn strategy into brands, interfaces and websites — from visual direction to front-end implementation.
 
