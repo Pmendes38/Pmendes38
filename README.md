@@ -24,17 +24,29 @@ Implemento experiências responsivas com HTML, CSS, JavaScript, TypeScript, Reac
 
 ### 1. A Caverna — projeto principal
 
+<a href="https://portfolio-iota-woad-84p4egesbx.vercel.app/projetos/caverna">
+  <img src="./previews/caverna.png" width="100%" alt="Prévia do site A Caverna: navegação e apresentação da igreja" />
+</a>
+
 Site institucional para uma comunidade de fé, implementado a partir do Figma com React, TypeScript e Vite. Navegação entre páginas, adaptação para celular e tablet, tratamento de imagens e páginas pré-renderizadas para mecanismos de busca.
 
 [Ver estudo de caso](https://portfolio-iota-woad-84p4egesbx.vercel.app/projetos/caverna) · [Acessar site](https://igrejaacaverna.com.br/) · [Ver código de estudo](https://github.com/Pmendes38/caverna-estudo-de-caso)
 
 ### 2. Sultec — site institucional e conversão
 
+<a href="https://portfolio-iota-woad-84p4egesbx.vercel.app/projetos/sultec">
+  <img src="./previews/sultec.png" width="100%" alt="Prévia do site Sultec: soluções tecnológicas e infraestrutura de TI" />
+</a>
+
 Identidade visual e site em Next.js para uma empresa de soluções tecnológicas. Páginas de serviços e projetos, conteúdo institucional, formulários e caminhos de contato. A cópia de estudo mantém a implementação e o histórico, sem as configurações operacionais da empresa.
 
 [Ver estudo de caso](https://portfolio-iota-woad-84p4egesbx.vercel.app/projetos/sultec) · [Acessar site](https://sultectecnologia.com.br/) · [Ver código de estudo](https://github.com/Pmendes38/sultec-estudo-de-caso)
 
-### 3. Penrose — comércio eletrônico conectado ao ERP
+### 3. Penrose — e-commerce conectado ao ERP
+
+<a href="https://portfolio-iota-woad-84p4egesbx.vercel.app/projetos/penrose">
+  <img src="./previews/penrose.png" width="100%" alt="Prévia do e-commerce Penrose: action figures, destaques e diferenciais da loja" />
+</a>
 
 Catálogo, páginas de produtos, cadastro, carrinho, cupom, checkout e acompanhamento de pedidos. O painel administrativo conecta produtos, clientes, pagamentos e ordens de serviço a um quadro de produção. O funil foi demonstrado com compra fictícia, sem cobrança ou envio real.
 
