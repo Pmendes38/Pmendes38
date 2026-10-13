@@ -30,7 +30,7 @@ Implemento experiências responsivas com HTML, CSS, JavaScript, TypeScript, Reac
 
 Site institucional para uma comunidade de fé, implementado a partir do Figma com React, TypeScript e Vite. Navegação entre páginas, adaptação para celular e tablet, tratamento de imagens e páginas pré-renderizadas para mecanismos de busca.
 
-[Ver estudo de caso](https://portfolio-iota-woad-84p4egesbx.vercel.app/projetos/caverna) · [Acessar site](https://igrejaacaverna.com.br/) · [Ver código de estudo](https://github.com/Pmendes38/caverna-estudo-de-caso)
+[Ver projeto](https://portfolio-iota-woad-84p4egesbx.vercel.app/projetos/caverna) · [Acessar site](https://igrejaacaverna.com.br/) · [Ver código](https://github.com/Pmendes38/caverna-estudo-de-caso)
 
 ### 2. Sultec — site institucional e conversão
 
@@ -38,9 +38,9 @@ Site institucional para uma comunidade de fé, implementado a partir do Figma co
   <img src="./previews/sultec.png" width="100%" alt="Prévia do site Sultec: soluções tecnológicas e infraestrutura de TI" />
 </a>
 
-Identidade visual e site em Next.js para uma empresa de soluções tecnológicas. Páginas de serviços e projetos, conteúdo institucional, formulários e caminhos de contato. A cópia de estudo mantém a implementação e o histórico, sem as configurações operacionais da empresa.
+Identidade visual e site em Next.js para uma empresa de soluções tecnológicas. Páginas de serviços e projetos, conteúdo institucional, formulários e caminhos de contato.
 
-[Ver estudo de caso](https://portfolio-iota-woad-84p4egesbx.vercel.app/projetos/sultec) · [Acessar site](https://sultectecnologia.com.br/) · [Ver código de estudo](https://github.com/Pmendes38/sultec-estudo-de-caso)
+[Ver projeto](https://portfolio-iota-woad-84p4egesbx.vercel.app/projetos/sultec) · [Acessar site](https://sultectecnologia.com.br/) · [Ver código](https://github.com/Pmendes38/sultec-estudo-de-caso)
 
 ### 3. Penrose — e-commerce conectado ao ERP
 
@@ -48,17 +48,11 @@ Identidade visual e site em Next.js para uma empresa de soluções tecnológicas
   <img src="./previews/penrose.png" width="100%" alt="Prévia do e-commerce Penrose: action figures, destaques e diferenciais da loja" />
 </a>
 
-Catálogo, páginas de produtos, cadastro, carrinho, cupom, checkout e acompanhamento de pedidos. O painel administrativo conecta produtos, clientes, pagamentos e ordens de serviço a um quadro de produção. O funil foi demonstrado com compra fictícia, sem cobrança ou envio real.
+Catálogo, páginas de produtos, cadastro, carrinho, cupom, checkout e acompanhamento de pedidos. O painel administrativo conecta produtos, clientes, pagamentos e ordens de serviço a um quadro de produção.
 
 **Tecnologias:** Next.js, TypeScript, NestJS e MongoDB.
 
-[Ver estudo de caso](https://portfolio-iota-woad-84p4egesbx.vercel.app/projetos/penrose) · [Acessar site](https://penrose.com.br/) · [Ver interface de estudo](https://github.com/Pmendes38/penrose-estudo-de-caso) · [Ver API de estudo](https://github.com/Pmendes38/penrose-api-estudo-de-caso)
-
-## Sobre os repositórios de estudo
-
-Os projetos acima são cópias públicas de implementações reais, preparadas para avaliação técnica. Não são os repositórios oficiais de produção.
-
-O histórico de desenvolvimento foi preservado, com remoção de configurações privadas, chaves e arquivos operacionais também nas versões antigas. A sanitização altera os identificadores dos commits; as datas, a autoria e a evolução do trabalho continuam documentadas. As marcas e os materiais visuais continuam pertencendo aos seus titulares.
+[Ver projeto](https://portfolio-iota-woad-84p4egesbx.vercel.app/projetos/penrose) · [Acessar site](https://penrose.com.br/) · [Ver código da interface](https://github.com/Pmendes38/penrose-estudo-de-caso) · [Ver código da API](https://github.com/Pmendes38/penrose-api-estudo-de-caso)
 
 ## Oportunidades
 
